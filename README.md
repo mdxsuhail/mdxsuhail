@@ -1,3 +1,12 @@
+
+<div align="center" style="background-color: #0d1117; padding: 10px; border-radius: 5px;">
+  <h3>
+    <a href="https://github.com/mdxsuhail">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=🚀+LATEST+UPDATES:+Researching+Hybrid+Turbo+Engines...+🏥+Building+AI+Medical+Dashboard...+🐍+Learning+Python+Data+Structures...+⚡+Electronics+Student+at+Work!" alt="News Bar" />
+    </a>
+  </h3>
+</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Student+%E2%9A%A1;Bridging+Hardware+%26+Software+%F0%9F%94%97;Building+Tech+for+Healthcare+%F0%9F%8F%A5;Exploring+Python+%26+Web+Dev+%F0%9F%90%8D" alt="Typing SVG" />
@@ -21,6 +30,11 @@
     </tr>
   </table>
   <p><i>Repeat... 🔁</i></p>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad." alt="Quote" />
 </div>
 
 ---
@@ -74,14 +88,6 @@ I am a **First-Year Electronics & Communication Engineering (EC)** student with 
 
 ---
 
-## 📂 Top Projects
-
-| Project | Details | Stack |
-| :--- | :--- | :--- |
-| **🏆 Rank Predictor** | **Goal:** Help students predict ranks for JEE/KCET/COMEDK.<br>**Tech:** Logic-based algorithms using past year cutoffs.<br>**Status:** 🟢 Live & Working | `Python` `Data` |
-| **🏥 SB-MED01 Dashboard** | **Goal:** A futuristic medical interface for multi-organ blood analysis.<br>**Tech:** Responsive Grid Layout, Dark Mode UI.<br>**Status:** 🟡 In Development | `HTML` `CSS` `JS` |
----
-
 ## 💡 Future Ideas & Brainstorming
 
 I am constantly exploring new technologies. Here is what I plan to build next:
@@ -93,15 +99,32 @@ I am constantly exploring new technologies. Here is what I plan to build next:
 
 ---
 
-## 📊 My GitHub Stats
+## 📂 Top Projects
+
+| Project | Details | Stack |
+| :--- | :--- | :--- |
+| **🏆 Rank Predictor** | **Goal:** Help students predict ranks for JEE/KCET/COMEDK.<br>**Tech:** Logic-based algorithms using past year cutoffs.<br>**Status:** 🟢 Live & Working | `Python` `Data` |
+| **🏥 SB-MED01 Dashboard** | **Goal:** A futuristic medical interface for multi-organ blood analysis.<br>**Tech:** Responsive Grid Layout, Dark Mode UI.<br>**Status:** 🟡 In Development | `HTML` `CSS` `JS` |
+
+---
+
+## 📊 My GitHub Stats & Commits
 
 <div align="center">
-  <img src="https://github.com/mdxsuhail/mdxsuhail/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdxsuhail&theme=radical&hide_border=true" alt="streak stats"/>
   
+  <br/>
+
+  <img src="https://github-profile-3d-contribs.vercel.app/api?username=mdxsuhail&header=true&theme=radical" alt="3d city" />
+
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=mdxsuhail&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdxsuhail&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+
+  <br/>
+  <img src="https://github.com/mdxsuhail/mdxsuhail/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 

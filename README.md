@@ -7,7 +7,7 @@
   </h3>
 </div>
 
-----
+---
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -136,7 +136,6 @@ I am actively looking for collaborators, mentors, or peers to work on these high
 
 > *Have a similar interest? Let's connect and write a paper together!*
 
-</div>
 
 ---
 

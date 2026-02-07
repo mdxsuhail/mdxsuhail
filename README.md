@@ -1,11 +1,13 @@
-
+---
 <div align="center" style="background-color: #0d1117; padding: 10px; border-radius: 5px;">
   <h3>
     <a href="https://github.com/mdxsuhail">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=🚀+LATEST+UPDATES:+Researching+Hybrid+Turbo+Engines...+🏥+Building+AI+Medical+Dashboard...+🐍+Learning+Python+Data+Structures...+⚡+Electronics+Student+at+Work!" alt="News Bar" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=1200&lines=🚀+LATEST+UPDATES:+Researching+Hybrid+Turbo+Engines...+🏥+Building+AI+Medical+Dashboard...+🐍+Learning+Python+Data+Structures...+⚡+Electronics+Student+at+Work!" alt="News Bar" />
     </a>
   </h3>
 </div>
+
+----
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -115,19 +117,27 @@ I am constantly exploring new technologies. Here is what I plan to build next:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdxsuhail&theme=radical&hide_border=true" alt="streak stats"/>
   
   <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdxsuhail&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdxsuhail&layout=compact&theme=radical&hide_border=true" height="160" />
-  </a>
-
   <br/>
 
-  <img src="https://github.com/mdxsuhail/mdxsuhail/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/mdxsuhail/mdxsuhail/blob/output/github-contribution-grid-snake.svg" width="850" alt="snake animation" />
+  </div>
+
+---
+## 🔬 Research & Collaboration Focus
+
+I am actively looking for collaborators, mentors, or peers to work on these high-impact research areas:
+
+| Research Area | Focus & Goal | Status |
+| :--- | :--- | :--- |
+| **🤖 Autonomous Robotics** | Building **SLAM-based Rovers** & robotic arms using Arduino/Raspberry Pi. | 🟡 **Ongoing** |
+| **🩺 AI in Healthcare** | Developing **Non-invasive Diagnostic Tools** using Computer Vision & ML (Project CareRx). | 🟢 **Active** |
+| **⚡ Embedded AI (TinyML)** | Optimizing Neural Networks to run on **Arduino & ESP32** for real-time edge computing. | 🔴 **Planning** |
+| **🎮 Game Theory AI** | Creating adaptive AI agents for strategy games like *Clash of Clans*. | ⚪ **Future** |
+
+> *Have a similar interest? Let's connect and write a paper together!*
 
 </div>
+
 ---
 
 <div align="center">

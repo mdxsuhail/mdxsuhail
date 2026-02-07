@@ -1,4 +1,3 @@
----
 <div align="center" style="background-color: #0d1117; padding: 10px; border-radius: 5px;">
   <h3>
     <a href="https://github.com/mdxsuhail">
@@ -120,9 +119,11 @@ I am constantly exploring new technologies. Here is what I plan to build next:
   <br/>
 
   <img src="https://github.com/mdxsuhail/mdxsuhail/blob/output/github-contribution-grid-snake.svg" width="850" alt="snake animation" />
-  </div>
+
+</div>
 
 ---
+
 ## 🔬 Research & Collaboration Focus
 
 I am actively looking for collaborators, mentors, or peers to work on these high-impact research areas:
@@ -135,7 +136,6 @@ I am actively looking for collaborators, mentors, or peers to work on these high
 | **🎮 Game Theory AI** | Creating adaptive AI agents for strategy games like *Clash of Clans*. | ⚪ **Future** |
 
 > *Have a similar interest? Let's connect and write a paper together!*
-
 
 ---
 

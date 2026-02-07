@@ -131,7 +131,7 @@ I am actively looking for collaborators, mentors, or peers to work on these high
 | Research Area | Focus & Goal | Status |
 | :--- | :--- | :--- |
 | **🤖 Autonomous Robotics** | Building **SLAM-based Rovers** & robotic arms using Arduino/Raspberry Pi. | 🟡 **Ongoing** |
-| **🩺 AI in Healthcare** | Developing **Non-invasive Diagnostic Tools** using Computer Vision & ML (Project CareRx). | 🟢 **Active** |
+| **🩺 AI in Healthcare** | Developing **Non-invasive Diagnostic Tools** using Computer Vision & ML. | 🟢 **Active** |
 | **⚡ Embedded AI (TinyML)** | Optimizing Neural Networks to run on **Arduino & ESP32** for real-time edge computing. | 🔴 **Planning** |
 | **🎮 Game Theory AI** | Creating adaptive AI agents for strategy games like *Clash of Clans*. | ⚪ **Future** |
 

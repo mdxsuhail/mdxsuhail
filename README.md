@@ -1,14 +1,29 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150px" style="object-fit:cover;" />
-  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Electronics+%26+Communication+Student+%E2%9A%A1;Bridging+Hardware+%26+Software+%F0%9F%94%97;Building+Tech+for+Healthcare+%F0%9F%8F%A5;Exploring+Python+%26+Web+Dev+%F0%9F%90%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Student+%E2%9A%A1;Bridging+Hardware+%26+Software+%F0%9F%94%97;Building+Tech+for+Healthcare+%F0%9F%8F%A5;Exploring+Python+%26+Web+Dev+%F0%9F%90%8D" alt="Typing SVG" />
   </a>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" align="right" />
+  <h3>⚡ The Life of an Engineer ⚡</h3>
+  <table>
+    <tr>
+      <td align="center"><b>💻 CODE</b></td>
+      <td align="center"><b>🍕 EAT</b></td>
+      <td align="center"><b>💤 SLEEP</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" /></td>
+      <td align="center"><img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="150" /></td>
+      <td align="center"><img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="150" /></td>
+    </tr>
+  </table>
+  <p><i>Repeat... 🔁</i></p>
 </div>
+
+---
 
 ## ⚡ About Me
 
@@ -22,7 +37,7 @@ I am a **First-Year Electronics & Communication Engineering (EC)** student with 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TIMB8BxxAdUpW/giphy.gif" width="400" height="40" />
+  <img src="https://media.giphy.com/media/7lfvF5WqWj69O/giphy.gif" width="500" height="50" />
   <br>
   <code> 🎵 Now Coding to: Lo-Fi Hip Hop / Cyberpunk Synthwave </code>
 </div>
@@ -65,21 +80,28 @@ I am a **First-Year Electronics & Communication Engineering (EC)** student with 
 | :--- | :--- | :--- |
 | **🏆 Rank Predictor** | **Goal:** Help students predict ranks for JEE/KCET/COMEDK.<br>**Tech:** Logic-based algorithms using past year cutoffs.<br>**Status:** 🟢 Live & Working | `Python` `Data` |
 | **🏥 SB-MED01 Dashboard** | **Goal:** A futuristic medical interface for multi-organ blood analysis.<br>**Tech:** Responsive Grid Layout, Dark Mode UI.<br>**Status:** 🟡 In Development | `HTML` `CSS` `JS` |
+---
+
+## 💡 Future Ideas & Brainstorming
+
+I am constantly exploring new technologies. Here is what I plan to build next:
+
+* **🧠 AI Prescription Reader:** An app using AI (OCR) to read doctors' handwriting and schedule meds.
+* **🏠 IoT Smart Dashboard:** Connecting my web interfaces to real **Arduino sensors** for home automation.
+* **🤖 AI Study Companion:** A Python bot that generates quiz questions from PDF notes for students.
+* **🚁 Drone Flight Controller:** Writing custom firmware for a flight controller using C++.
 
 ---
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7XMjJKq8/giphy.gif" width="50" />
+  <img src="https://github.com/mdxsuhail/mdxsuhail/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
   
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=mdxsuhail&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdxsuhail&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-
-  <br/>
-  <img src="https://github.com/mdxsuhail/mdxsuhail/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 

@@ -126,7 +126,7 @@ function build({ avatar, repos }) {
     </circle>
     <circle cx="${HUB.x}" cy="${HUB.y}" r="22" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
     ${avatar ? `<clipPath id="av"><circle cx="${HUB.x}" cy="${HUB.y}" r="18"/></clipPath>
-    <image href="${avatar}" x="${HUB.x - 18}" y="${HUB.y - 18}" width="36" height="36" clip-path="url(#av)"/>` : `<circle cx="${HUB.x}" cy="${HUB.y}" r="14" fill="#39d353"/`}
+    <image href="${avatar}" x="${HUB.x - 18}" y="${HUB.y - 18}" width="36" height="36" clip-path="url(#av)"/>` : `<circle cx="${HUB.x}" cy="${HUB.y}" r="14" fill="#39d353"/>`}
     <rect x="${HUB.x - 40}" y="${HUB.y + 26}" width="80" height="20" rx="10" fill="#0d1117"/>
     <text x="${HUB.x}" y="${HUB.y + 40}" class="user" text-anchor="middle">@${esc(USER)}</text>`;
 
